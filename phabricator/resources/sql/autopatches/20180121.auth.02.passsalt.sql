@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_auth.auth_password
-  ADD passwordSalt VARCHAR(64) NOT NULL COLLATE {$COLLATE_TEXT};

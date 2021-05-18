@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_repository.repository
-  ADD localPath VARCHAR(128) COLLATE {$COLLATE_TEXT};

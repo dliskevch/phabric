@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_daemon.daemon_log
-  ADD runningAsUser VARCHAR(255) COLLATE {$COLLATE_TEXT};

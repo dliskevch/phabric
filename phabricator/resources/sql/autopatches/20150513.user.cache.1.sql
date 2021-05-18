@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_user.user
-  ADD profileImageCache VARCHAR(255) COLLATE {$COLLATE_TEXT};

@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_auth.auth_sshkey
-  CHANGE userPHID objectPHID VARBINARY(64) NOT NULL;
