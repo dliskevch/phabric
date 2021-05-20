@@ -5,6 +5,6 @@ things. You can read more in the [User Guide](https://secure.phabricator.com/boo
 
 For more information about Phabricator, see http://phabricator.org/.
 
-***LICENSE***
+**LICENSE**
 
 Arcanist is released under the Apache 2.0 license except as otherwise noted.
