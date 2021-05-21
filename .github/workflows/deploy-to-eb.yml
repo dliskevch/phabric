@@ -22,7 +22,7 @@ jobs:
           aws-region: "us-east-2"
 
       - name: Upload package to S3 bucket
-        run: aws s3 cp deploy_package.zip s3://dima-beanstalk-env/
+        run: aws s3 cp deploy_package.zip s3://phabricator-beanstalk-env/
 
       - name: Create new ElasticBeanstalk Application Version
         run: |
