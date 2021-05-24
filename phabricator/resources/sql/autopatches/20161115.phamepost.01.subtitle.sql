@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_phame.phame_post
-  ADD subtitle VARCHAR(64) NOT NULL COLLATE {$COLLATE_TEXT};

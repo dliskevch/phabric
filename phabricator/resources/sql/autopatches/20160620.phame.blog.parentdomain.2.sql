@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_phame.phame_blog
-  ADD parentDomain VARCHAR(128) NOT NULL COLLATE {$COLLATE_TEXT};

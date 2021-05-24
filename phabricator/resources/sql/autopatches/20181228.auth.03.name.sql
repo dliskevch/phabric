@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_auth.auth_factorprovider
-  ADD name VARCHAR(255) NOT NULL COLLATE {$COLLATE_TEXT};

@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_nuance.nuance_source
-  CHANGE name name VARCHAR(255) NOT NULL COLLATE {$COLLATE_SORT};

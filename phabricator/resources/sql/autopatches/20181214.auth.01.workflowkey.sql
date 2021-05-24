@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_auth.auth_challenge
-  ADD workflowKey VARCHAR(255) NOT NULL COLLATE {$COLLATE_TEXT};

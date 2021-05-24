@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_owners.owners_package
-  ADD auditingState VARCHAR(32) NOT NULL COLLATE {$COLLATE_TEXT};

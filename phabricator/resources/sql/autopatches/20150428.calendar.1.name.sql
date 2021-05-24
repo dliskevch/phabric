@@ -1,2 +1,0 @@
-ALTER TABLE {$NAMESPACE}_calendar.calendar_event
-    ADD name LONGTEXT COLLATE {$COLLATE_TEXT} NOT NULL;
